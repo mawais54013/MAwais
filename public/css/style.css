@@ -14,7 +14,7 @@ a:hover {
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif!important;
 }
 
 #header {
@@ -29,7 +29,7 @@ body {
 
 .navbar {
     font-family: 'Montserrat', sans-serif;
-    background: url("../imgs/img2.jpg");
+    background: url("../imgs/img7.jpg");
     z-index: 10!important;
     border-bottom: 1px solid rgb(31, 96, 180);
 }
