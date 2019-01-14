@@ -1,0 +1,52 @@
+a {
+    text-decoration: none;
+    color: rgb(31, 96, 180);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.container {
+    padding-top: 62px;
+    z-index:5;
+    overflow:hidden;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#header {
+    background: url("../imgs/img7.jpg");
+    height: 100vh;
+    z-index: 9!important;
+}
+
+#headSection {
+    padding-top: 124px!important;
+}
+
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+    background: url("../imgs/img2.jpg");
+    z-index: 10!important;
+    border-bottom: 1px solid rgb(31, 96, 180);
+}
+
+.navbar-hidden {
+    height: 62px;
+    z-index: 8!important;
+    background-color: #ffff!important;
+}
+
+.nav-item {
+    color: rgb(31, 96, 180);
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.fa.fa-envelope-o, .fa.fa-linkedin, .fa.fa-github-alt {
+    color: rgb(31, 96, 180)!important;
+    font-size: 2em;
+}
