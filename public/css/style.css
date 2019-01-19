@@ -126,6 +126,13 @@ footer.navbar {
 }
 
 @media (max-width: 991.98px) {
+    #header {
+        background: url("../imgs/img7.jpg");
+        background-size: 400% 150%;
+        background-repeat: no-repeat;
+        height: 105vh;
+        z-index: 9!important;
+    }
     .skill-img {
         height: 80px!important;
         width: 80px!important;
