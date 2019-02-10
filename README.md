@@ -9,6 +9,10 @@ This a portfolio of some of my projects including an about section and contact f
 Site Link: https://mawais54013.github.io/MAwais/
 
 Display of some of my projects: 
+- Dashboard
+- Friend Finder 
+- Shout
+- EventSpotter
 
 ![projects](./public/imgs/img14.png)
 
