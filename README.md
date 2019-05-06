@@ -13,6 +13,11 @@ Display of some of my projects:
 - Friend Finder 
 - Shout
 - EventSpotter
+- GameWatch
+- Transformers Friend-Finder
+- Train Scheduler
+- BAmazon
+- Code-Chat
 
 ![projects](./public/imgs/img14.png)
 
